@@ -1,12 +1,3 @@
-%
-% example11_3.m - MATLAB script for Example 11.3
-%   This routine generates 8-bit gamma table
-%
-%
-% For the book "Real Time Digital Signal Processing: 
-%               Fundamentals, Implementation and Application, 3rd Ed"
-%               By Sen M. Kuo, Bob H. Lee, and Wenshun Tian
-%               Publisher: John Wiley and Sons, Ltd
 
 clear;
 RGB = imread('example11.3.bmp');   % Read the image in
